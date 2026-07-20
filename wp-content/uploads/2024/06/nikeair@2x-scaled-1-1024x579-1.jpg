@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head><meta charset="UTF-8">
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="modernblocks - Just another WordPress site">
+<link rel="pingback" href="https://modernblocks.liquid-themes.com/elementor/xmlrpc.php">
+<title>Page not found – modernblocks</title>
+			<script type="text/javascript">
+			var WebFontConfig = WebFontConfig || {};
+			WebFontConfig['active'] = function() {
+				if ( typeof ( window.jQuery ) !== 'undefined' ) {
+					jQuery(window).trigger('liquid_async_fonts_active');
+				}
+			};
+			WebFontConfig['inactive'] = function() {
+				if ( typeof ( window.jQuery ) !== 'undefined' ) {
+					jQuery(window).trigger('liquid_async_fonts_inactive');
+				}
+			};
+			</script>
+			<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="modernblocks » Feed" href="https://modernblocks.liquid-themes.com/elementor/feed/">
+<link rel="alternate" type="application/rss+xml" title="modernblocks » Comments Feed" href="https://modernblocks.liquid-themes.com/elementor/comments/feed/">
+<link rel="preload" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2" as="font" type="font/woff2" crossorigin>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/modernblocks.liquid-themes.com\/elementor\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://modernblocks.liquid-themes.com/elementor/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="liquid-base-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="liquid-theme-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/css/theme.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-responsive-min-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/css/theme-responsive-min.min.css?ver=5.8.1" type="text/css" media="screen and (min-width: 1200px)">
+<link rel="stylesheet" id="theme-responsive-max-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/css/theme-responsive-max.min.css?ver=5.8.1" type="text/css" media="screen and (max-width: 1199px)">
+<link rel="stylesheet" id="landinghub-core-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/hub-core/assets/css/landinghub-core.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="liquid-elementor-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/hub-elementor-addons/assets/css/liquid-elementor.css?ver=5.8.1" type="text/css" media="all">
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/hub-core/extensions/redux-typekit/liquid-typekit.js?ver=5.8.1' id='liquid-typekit-js'></script>
+<link rel="https://api.w.org/" href="https://modernblocks.liquid-themes.com/elementor/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://modernblocks.liquid-themes.com/elementor/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://modernblocks.liquid-themes.com/elementor/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.1">
+	
+				<link rel="shortcut icon" href="">
+				
+		
+			
+	<script type="text/javascript">
+				window.liquidParams = {
+					currentZIndex: 10
+				}
+			</script><style id="liquid-stylesheet-inline-css" type="text/css">:root{--lqd-cc-size-inner:12px;--lqd-cc-bg:rgba(255, 255, 255, 0.94);--lqd-cc-active-bw:1px;--lqd-cc-active-bg:rgb(255, 108, 79);--lqd-cc-active-bc:rgb(255, 108, 79);--lqd-cc-active-circle-txt:rgb(255, 108, 79);}body{}.btn{}.lqd-post-content, .lqd-post-header .entry-excerpt{}.h1,h1{}.h2,h2{}.h3,h3{}.h4,h4{}.h5,h5{}.h6,h6{}.titlebar-inner h1{}.titlebar-inner p{}.titlebar-inner{padding-top:80px;padding-bottom:80px;}@media screen and (min-width: 992px){body.has-sidebar #lqd-contents-wrap{padding-top:25px;}}.mbYTP_wrapper iframe {
+  height: 140vh !important;
+  margin-top: -20vh !important;
+}
+
+@media screen and (min-width: 992px) {
+.lqd-af-slidenav {
+    left: calc(5vw - 15px);
+}}</style>
+</head>
+
+<body class="error404 wp-embed-responsive lqd-preloader-activated lqd-page-not-loaded lqd-preloader-style-curtain sidebar-widgets-outline lazyload-enabled elementor-default elementor-kit-5" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage" data-mobile-nav-breakpoint="1200" data-mobile-nav-style="modern" data-mobile-nav-scheme="dark" data-mobile-nav-trigger-alignment="right" data-mobile-header-scheme="custom" data-mobile-logo-alignment="default" data-overlay-onmobile="true" data-lqd-cc="true" data-cc-options="{&quot;outerCursorHide&quot;:true}">
+	
+	
+	<div><div class="screen-reader-text">Skip links</div><ul class="liquid-skip-link screen-reader-text"><li><a href="#primary-nav" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#lqd-site-content" class="screen-reader-shortcut"> Skip to content</a></li></ul></div>
+<div class="lqd-cc-wrap">
+					<div class="lqd-cc lqd-cc--inner">
+						<span class="lqd-cc-solid-bg"></span>
+						<div class="lqd-cc-solid lqd-cc-explore">
+							<div class="lqd-cc-solid-inner">
+								<span class="lqd-cc-solid-txt d-flex overflow-hidden justify-content-center text-center">
+									<span class="d-flex">explore</span>
+								</span>
+							</div>
+						</div>
+						<div class="lqd-cc-solid lqd-cc-drag">
+							<div class="lqd-cc-solid-inner">
+								<span class="lqd-cc-solid-ext lqd-cc-solid-ext-left">
+									<i class="lqd-icn-ess icon-ion-caret-back"></i>
+								</span>
+								<span class="lqd-cc-solid-txt d-flex overflow-hidden justify-content-center text-center">
+									<span class="d-flex">drag</span>
+								</span>
+								<span class="lqd-cc-solid-ext lqd-cc-solid-ext-right">
+									<i class="lqd-icn-ess icon-ion-caret-forward"></i>
+								</span>
+							</div>
+						</div>
+						<div class="lqd-cc-arrow">
+							<svg width="80" height="80" viewbox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M60.4993 0V4.77005H8.87285L80 75.9207L75.7886 79.1419L4.98796 8.35478V60.4993H0V0H60.4993Z"></path>
+							</svg>
+						</div>
+						<div class="lqd-cc-custom-icon">
+							<span class="lqd-cc-ci">
+								<i class="lqd-icn-ess icon-ion-ios-add"></i>
+							</span>
+						</div>
+					</div>
+					<div class="lqd-cc lqd-cc--outer"></div>
+				</div><div class="lqd-preloader-wrap lqd-preloader-curtain" data-preloader-options='{ "animationType": "slide", "animationTargets": ".lqd-preloader-curtain-el", "stagger": 215 }'>
+	<div class="lqd-preloader-inner">
+
+		<div class="lqd-preloader-curtain-el lqd-preloader-curtain-front"></div>
+		<div class="lqd-preloader-curtain-el lqd-preloader-curtain-back"></div>
+
+	</div>
+</div>
+	<div id="wrap">
+
+		<header class="header site-header main-header main-header-overlay  " id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+    
+    		<div data-elementor-type="wp-post" data-elementor-id="64" class="elementor elementor-64" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-649c737 elementor-section-full_width elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="649c737" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-19ec8e2" data-id="19ec8e2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-96f0927 elementor-widget elementor-widget-ld_header_image" data-id="96f0927" data-element_type="widget" data-widget_type="ld_header_image.default">
+				<div class="elementor-widget-container">
+					
+		<div id="" class="module-logo no-rotate navbar-brand-plain">
+
+			<a class="navbar-brand" href="https://modernblocks.liquid-themes.com/elementor/" rel="home"><span class="navbar-brand-inner">    <img class="logo-default" src="https://modernblocks.liquid-themes.com/elementor/wp-content/uploads/2021/10/logo.svg" alt="modernblocks"></span></a>			
+		</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6913323" data-id="6913323" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-85818fe elementor-widget elementor-widget-ld_header_iconbox" data-id="85818fe" data-element_type="widget" data-widget_type="ld_header_iconbox.default">
+				<div class="elementor-widget-container">
+						
+				<div class="iconbox iconbox-side" id="85818fe">
+											
+					<div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><i class="lqd-icn-ess icon-lqd-circle"></i></span></div>										<h3>Have a project in mind? Let's Talk.</h3>
+															
+				</div>
+			
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-27206a1" data-id="27206a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bd1fa6c elementor-widget elementor-widget-ld_header_menu" data-id="bd1fa6c" data-element_type="widget" data-widget_type="ld_header_menu.default">
+				<div class="elementor-widget-container">
+					<div class="module-primary-nav pos-stc">
+			<div class="collapse navbar-collapse lqd-submenu-default-style navbar-visible-ontoggle " id="main-header-collapse" aria-expanded="false" role="navigation">
+			<ul id="primary-nav" class="main-nav lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-default d-flex nav align-items-stretch" data-submenu-options='{"toggleType":"fade","handler":"mouse-in-out"}'><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://modernblocks.liquid-themes.com/elementor/about-me/">Profile</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71"><a href="#">Works<span class="submenu-expander"></span></a>
+<ul class="nav-item-children">
+	<li id="menu-item-3937" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3937"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/nexa-mobile/">Adaptive Colors</a></li>
+	<li id="menu-item-3933" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3933"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/aliens-do-3d-automobile/">Dark</a></li>
+	<li id="menu-item-3934" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3934"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/artboard-studio/">Carousel Gallery</a></li>
+	<li id="menu-item-3935" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3935"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/inspiration-board/">Classic Stack</a></li>
+	<li id="menu-item-3936" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3936"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/mercedez-benz-coupe/">Video</a></li>
+	<li id="menu-item-3938" class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3938"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/nike-shopping/">User Interface</a></li>
+</ul>
+</li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://modernblocks.liquid-themes.com/elementor/contact/">Contact</a></li>
+</ul>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1721687 elementor-widget elementor-widget-ld_header_trigger" data-id="1721687" data-element_type="widget" data-widget_type="ld_header_trigger.default">
+				<div class="elementor-widget-container">
+					<button id="1721687" class="nav-trigger main-nav-trigger collapsed style-2 solid circle txt-left" role="button" type="button" data-ld-toggle="true" data-toggle="collapse" data-target="#main-header-collapse" aria-expanded="false" aria-controls="main-header-collapse">
+			<span class="bars">
+				<span class="bars-inner">
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+									</span>
+			</span>
+			<span class="txt">Menu</span>		</button>
+			</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<div class="lqd-mobile-sec elementor">
+		<div class="lqd-mobile-sec-inner navbar-header d-flex align-items-stretch">
+			<div class="lqd-mobile-modules-container empty"></div>
+			<button type="button" class="navbar-toggle collapsed nav-trigger style-mobile" data-ld-toggle="true" data-toggle="collapse" data-target="#lqd-mobile-sec-nav" aria-expanded="false" data-toggle-options='{ "changeClassnames": {"html": "mobile-nav-activated"} }'>
+				<span class="sr-only">Toggle navigation</span>
+				<span class="bars">
+					<span class="bars-inner">
+						<span class="bar"></span>
+						<span class="bar"></span>
+						<span class="bar"></span>
+					</span>
+				</span>
+			</button>
+	
+			<a class="navbar-brand" href="https://modernblocks.liquid-themes.com/elementor/">
+				<span class="navbar-brand-inner">
+					<img class="logo-default" src="https://modernblocks.liquid-themes.com/elementor/wp-content/uploads/2021/10/logo.svg" alt="modernblocks">
+				</span>
+			</a>
+
+		</div>
+	
+		<div class="lqd-mobile-sec-nav">
+
+			<div class="mobile-navbar-collapse navbar-collapse collapse" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation"><ul id="mobile-primary-nav" class="lqd-mobile-main-nav main-nav nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://modernblocks.liquid-themes.com/elementor/about-me/">Profile</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71"><a href="#">Works<span class="submenu-expander"></span></a>
+<ul class="nav-item-children">
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3937"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/nexa-mobile/">Adaptive Colors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3933"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/aliens-do-3d-automobile/">Dark</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3934"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/artboard-studio/">Carousel Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3935"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/inspiration-board/">Classic Stack</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3936"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/mercedez-benz-coupe/">Video</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-liquid-portfolio menu-item-3938"><a href="https://modernblocks.liquid-themes.com/elementor/portfolio/nike-shopping/">User Interface</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://modernblocks.liquid-themes.com/elementor/contact/">Contact</a></li>
+</ul></div>
+
+		</div>
+	
+	</div>
+</header>
+		<main class="content" id="lqd-site-content">
+
+			
+			<div>
+
+			<article id="post-404" class="page-404 error-404 not-found entry">
+	
+	<div class="container">
+		<div class="row">	
+			<div class="col-md-8 col-md-offset-2 text-center">
+	
+				<div class="text-404">
+		
+					<h1 data-fittext="true" data-fittext-options='{ "compressor": 0.25, "minFontSize": 150, "maxFontSize": 200 }' class="liquid-counter-element text-primary">
+						<!--/.THIS IS NOT TRANSLATABLE OR DYNAMIC THING, IT NEEDS FOR THE EFFECTS -->
+						<span>404</span>
+					</h1>
+	
+				</div>
+	
+				
+					<h3 class="font-weight-normal mb-3">Looks like you are lost.</h3>
+											<p>We can’t seem to find the page you’re looking for.</p>
+																<a href="https://modernblocks.liquid-themes.com/elementor/" class="btn btn-md btn-bordered circle btn-hover-reveal wide lh-135 px-3">
+						<span>
+							<span class="btn-txt">Back to home</span>
+							<span class="btn-icon">
+								<i class="lqd-icn-ess icon-md-arrow-forward"></i>
+							</span>
+						</span>
+					</a>
+													
+			</div>
+	
+		</div>
+	
+	</div>
+	
+</article>
+
+
+						</div>
+					</main>
+		<footer class="main-footer site-footer footer" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" data-sticky-footer="true" data-sticky-footer-options="{&quot;shadow&quot;:&quot;4&quot;}">
+	</footer>
+	</div>
+
+	
+	<link rel="stylesheet" id="liquid-icons-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/jquery-ui/jquery-ui.css" type="text/css" media="all">
+<link rel="stylesheet" id="fresco-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/fresco/css/fresco.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1634036237" type="text/css" media="all">
+<style id="elementor-frontend-inline-css" type="text/css">
+.elementor-64 .elementor-element.elementor-element-649c737 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-64 .elementor-element.elementor-element-649c737{padding:0px 40px 0px 40px;}.elementor-64 .elementor-element.elementor-element-96f0927 .module-logo{padding-top:54px;padding-inline-end:0px;padding-bottom:54px;padding-inline-start:0px;}.is-stuck .elementor-64 .elementor-element.elementor-element-96f0927 .module-logo{padding-top:54px;padding-inline-end:0px;padding-bottom:54px;padding-inline-start:0px;}.elementor-64 .elementor-element.elementor-element-6913323.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-64 .elementor-element.elementor-element-85818fe .iconbox-icon-container{font-size:30px;}.elementor-64 .elementor-element.elementor-element-85818fe .iconbox-icon-wrap{margin-inline-end:0px;}.elementor-64 .elementor-element.elementor-element-85818fe h3{font-size:15px;font-weight:500;line-height:1.9em;color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-27206a1.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li > a{font-size:14px;letter-spacing:0.28px;}.elementor-64 .elementor-element.elementor-element-bd1fa6c{--lqd-menu-items-top-padding:10px;--lqd-menu-items-right-padding:15px;--lqd-menu-items-bottom-padding:10px;--lqd-menu-items-left-padding:15px;}.is-stuck .elementor-64 .elementor-element.elementor-element-bd1fa6c{--lqd-menu-items-top-padding:10px;--lqd-menu-items-right-padding:15px;--lqd-menu-items-bottom-padding:10px;--lqd-menu-items-left-padding:15px;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .nav-item-children > li > a{font-size:14px;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li > a, .navbar-fullscreen .elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li > a{color:#FFFFFF9C;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li:hover > a, .elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li.is-active > a, .navbar-fullscreen .elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav > li > a:hover{color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav .nav-item-children > li > a{color:#FFFFFFD1;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav .nav-item-children > li > a:hover{color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-bd1fa6c .main-nav .nav-item-children:before{background:#1D1D1D;}.elementor-64 .elementor-element.elementor-element-bd1fa6c > .elementor-widget-container{padding:0px 25px 0px 0px;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger{font-size:14px;font-weight:400;color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger .bar, .elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.style-2 .bar:before, .elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.style-2 .bar:after{background:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger:hover .bar, .elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.style-2:hover .bar:before, .elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.style-2:hover .bar:after{background:#000000;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger:hover{color:#000000;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger .txt{color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.solid .bars:before{background-color:#02010100;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.bordered .bars{border-color:#02010100;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.solid:hover .bars:before{background-color:#FFFFFF;}.elementor-64 .elementor-element.elementor-element-1721687 .nav-trigger.bordered:hover .bars{border-color:#FFFFFF;}[data-mobile-nav-style=modern] .lqd-mobile-sec:before{background-color:#202020;}[data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul .nav-item-children > li > a, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul > li > a, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul.nav.main-nav .nav-item-children > li > a, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul.nav.main-nav > li > a, [data-mobile-nav-style=modern] .lqd-mobile-sec .megamenu .ld-fancy-heading .ld-fh-element{color:#FFFFFF;}[data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul .nav-item-children > li > a:hover, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul > li > a:hover, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul.nav.main-nav .nav-item-children > li > a:hover, [data-mobile-nav-style=modern] .lqd-mobile-sec .navbar-collapse ul.nav.main-nav > li > a:hover{color:#FFFFFF;}[data-mobile-nav-style=modern] .lqd-mobile-sec-nav .mobile-navbar-collapse > .nav-trigger .bars{border:none;padding-inline-start:10px;}[data-mobile-nav-style=modern] .lqd-mobile-sec-nav .mobile-navbar-collapse > .nav-trigger .bars:before{border:2px solid #FFFFFF;opacity:0.4;}[data-mobile-nav-style=modern] .lqd-mobile-sec-nav .mobile-navbar-collapse > .nav-trigger .bar{background:#FFFFFF;}[data-mobile-header-scheme] .lqd-mobile-sec .navbar-header{background-color:#02010100;}.lqd-mobile-sec .navbar-header .nav-trigger, .lqd-mobile-sec .navbar-header .ld-module-trigger, .lqd-mobile-sec .navbar-header .ld-search-form .input-icon{color:#FFFFFF;}.lqd-mobile-sec .navbar-header .nav-trigger .bar, .lqd-mobile-sec .navbar-header .nav-trigger.style-2 .bar:before, .lqd-mobile-sec .navbar-header .nav-trigger.style-2 .bar:after{background:#FFFFFF;}
+@font-face{font-family:eicons;src:url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+.elementor-kit-5{--e-global-color-primary:#FF6C4F;--e-global-color-text:#8F8F91;--e-global-color-30c20ee:#181B31;--e-global-typography-primary-font-family:"Karla";--e-global-typography-primary-font-size:19px;--e-global-typography-primary-font-weight:400;--e-global-typography-primary-line-height:1.3em;--e-global-typography-primary-letter-spacing:0px;color:var( --e-global-color-text );font-family:"Karla", Sans-serif;font-size:19px;font-weight:400;line-height:1.3em;letter-spacing:0px;}:root{--color-gradient-start:var( --e-global-color-primary );--color-gradient-stop:var( --e-global-color-primary );}h1, .h1{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:52px;font-weight:700;line-height:1.2em;letter-spacing:0px;}h2, .h2{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:40px;font-weight:700;line-height:1.2em;letter-spacing:0px;}h3, .h3{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:32px;font-weight:700;line-height:1.2em;letter-spacing:0px;}h4, .h4{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:25px;font-weight:700;line-height:1.2em;letter-spacing:0px;}h5, .h5{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:21px;font-weight:700;line-height:1.2em;letter-spacing:0px;}h6, .h6{color:var( --e-global-color-30c20ee );font-family:"DM Sans", Sans-serif;font-size:18px;font-weight:700;line-height:1.2em;letter-spacing:0px;}.elementor-kit-5 .lqd-post-content,.elementor-kit-5 .lqd-post-header .entry-excerpt{color:#737373;font-size:14px;line-height:2em;letter-spacing:0px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1250px;}.elementor-widget:not(:last-child){margin-bottom:0px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1199px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}
+</style>
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="e-animations-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Karla%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-lqd-essentials-css" href="https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css?ver=1.0.0" type="text/css" media="all">
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/modernblocks.liquid-themes.com\/elementor\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/fastdom/fastdom.min.js' id='fastdom-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/bootstrap/js/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/jquery-ui/jquery-ui.min.js' id='jquery-ui-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/fresco/js/fresco.js' id='jquery-fresco-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/lity/lity.min.js' id='lity-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/gsap/minified/gsap.min.js' id='gsap-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/gsap/utils/CustomEase.min.js' id='gsap-custom-ease-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/gsap/minified/ScrollTrigger.min.js' id='scrollTrigger-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/fontfaceobserver.js' id='jquery-fontfaceobserver-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/lazyload.min.js' id='jquery-lazyload-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/tinycolor-min.js' id='jquery-tinycolor-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/vendors/particles.min.js' id='jquery-particles-js'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key' id='google-maps-api-js'></script>
+<script type='text/javascript' id='liquid-theme-js-extra'>
+/* <![CDATA[ */
+var liquidTheme = {"uris":{"ajax":"\/elementor\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/themes/hub/assets/js/theme.min.js' id='liquid-theme-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.4.4' id='font-awesome-4-shim-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.4' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.4' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.4' id='share-link-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1200,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1199,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/modernblocks.liquid-themes.com\/elementor\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[],"general":[]},"kit":{"viewport_tablet":1199,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found – modernblocks","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.4' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://modernblocks.liquid-themes.com/elementor/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.4' id='preloaded-modules-js'></script>
+<template id="lqd-snickersbar">
+			<div class="lqd-snickersbar d-flex flex-wrap lqd-snickersbar-in" data-item-id>
+				<div class="lqd-snickersbar-inner d-flex flex-wrap align-items-center">
+					<div class="lqd-snickersbar-detail">
+						<p class="hidden lqd-snickersbar-addding-temp my-0">Adding {{itemName}} to cart</p>
+						<p class="hidden lqd-snickersbar-added-temp my-0">Added {{itemName}} to cart</p>
+						<p class="my-0 lqd-snickersbar-msg d-flex align-items-center my-0"></p>
+						<p class="my-0 lqd-snickersbar-msg-done d-flex align-items-center my-0"></p>
+					</div>
+					<div class="lqd-snickersbar-ext ml-4"></div>
+				</div>
+			</div>
+		</template><div class="lity" role="dialog" aria-label="Dialog Window (Press escape to close)" tabindex="-1" data-modal-type="default">
+		<div class="lity-backdrop"></div>
+		<div class="lity-wrap" data-lity-close role="document">
+			<div class="lity-loader" aria-hidden="true">Loading...</div>
+			<div class="lity-container">
+				<div class="lity-content"></div>
+			</div>
+			<button class="lity-close" type="button" aria-label="Close (Press escape to close)" data-lity-close>×</button>
+		</div>
+	</div>
+</body>
+</html>
